@@ -1,2 +1,2 @@
 # HTML-CSS-Bootstrap
-Page built by using html,css and bootstrap
+Non-Responsive Page built by using html,css and bootstrap
